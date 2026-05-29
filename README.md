@@ -33,4 +33,4 @@ Je crois fermement au partage de connaissances. Je documente régulièrement mon
 
 📫 **Pour me joindre ou suivre mon travail :**
 *   **LinkedIn :** [Lien pour mon linkedIn](https://www.linkedin.com/in/patrick-malombi-928558225/)
-*   **Twitter/X :** [Lien pour mon Twitter]((https://x.com/PeaceSmart95))
+*   **Twitter/X :** [Lien pour mon Twitter](https://x.com/PeaceSmart95)
