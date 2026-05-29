@@ -1,16 +1,36 @@
-## Hi there 👋
+# Salut ! Moi c'est Patrick Malombi 👋
 
-<!--
-**StPatrick95/StPatrick95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Software Engineer | Back-end & Data
 
-Here are some ideas to get you started:
+Passionné par l'architecture logicielle, la manipulation des données et l'automatisation, je me concentre sur la création de solutions back-end robustes, performantes et scalables. Alliant une vision technique rigoureuse à une approche orientée gestion, j'aime concevoir des systèmes qui résolvent de vrais problèmes business.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Mon Stack Technique
+
+*   **Langages :** Python, SQL
+*   **Back-end & API :** FastAPI, Flask (conception d'API RESTful, architectures modulaires)
+*   **Data & Automation :** Data Analysis, Automation Scripts, Computer Vision (OpenCV, MediaPipe)
+*   **Bases de données & Stockage :** PostgreSQL, MySQL, JSON
+*   **Outils & Environnement :** Git/GitHub, Linux (Zorin OS), Scripting Bash
+
+---
+
+### 📈 Projets en Vedette
+
+#### 👁️ Système de Comptage Intelligent par Vision par Ordinateur
+*   **Description :** Développement d'une application de vision par ordinateur capable de détecter, classifier (par âge et genre) et compter les personnes entrant dans un établissement en temps réel.
+*   **Technologies :** Python, MediaPipe, OpenCV, JSON.
+*   **Focus :** Modularité du code, traitement de flux vidéo et gestion optimisée des logs de données.
+
+#### 🐍 Python-Maitrise-Progressive
+*   **Description :** Un dépôt dédié à mon apprentissage continu, regroupant des algorithmes, des scripts d'automatisation et des architectures de backend clean.
+
+---
+
+### ✍️ Partage & Vulgarisation
+Je crois fermement au partage de connaissances. Je documente régulièrement mon parcours à travers des articles de vulgarisation de données et des partages de solutions back-end sur mes réseaux professionnels.
+
+📫 **Pour me joindre ou suivre mon travail :**
+*   **LinkedIn :** [Ton Lien LinkedIn](https://linkedin.com/in/ton-profil)
+*   **Twitter/X :** [Ton Lien Twitter](https://twitter.com/ton-profil)
