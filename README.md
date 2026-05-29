@@ -32,5 +32,5 @@ Passionné par l'architecture logicielle, la manipulation des données et l'auto
 Je crois fermement au partage de connaissances. Je documente régulièrement mon parcours à travers des articles de vulgarisation de données et des partages de solutions back-end sur mes réseaux professionnels.
 
 📫 **Pour me joindre ou suivre mon travail :**
-*   **LinkedIn :** [](https://www.linkedin.com/in/patrick-malombi-928558225/)
-*   **Twitter/X :** []((https://x.com/PeaceSmart95))
+*   **LinkedIn :** [Lien pour mon linkedIn](https://www.linkedin.com/in/patrick-malombi-928558225/)
+*   **Twitter/X :** [Lien pour mon Twitter]((https://x.com/PeaceSmart95))
